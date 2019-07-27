@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+/* media queries */
+
+@media (max-width: 767px) {
+    .mobile {
+        background-color: #0997d3;
+    }
+}
