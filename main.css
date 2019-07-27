@@ -12,3 +12,16 @@
         background-color: #0997d3;
     }
 }
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .tablet {
+        background-color: #bada55;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1800px) {
+    .desktop {
+        background-color: #000;
+    }
+}
